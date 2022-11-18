@@ -1,4 +1,4 @@
-# android_device_oneplus_N10-BE2026
+# Android Device Tree OnePlus N10 BE2026
 ONEPLUS N10 5G BE2026 11.0.8.BE86AA
 Device Tree For OrangeFox/TWRP.
 
