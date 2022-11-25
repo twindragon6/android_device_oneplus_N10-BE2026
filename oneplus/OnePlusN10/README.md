@@ -1,4 +1,4 @@
-# Android device tree for OnePlus None (OnePlusN10)
+# Android Device Tree For OnePlus N10 (OnePlusN10)
 
 ```
 #
